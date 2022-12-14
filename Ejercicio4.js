@@ -1,0 +1,1 @@
+edad = prompt("¿Cual es su edad señor usuario?");
